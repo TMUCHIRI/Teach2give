@@ -1,1 +1,1 @@
-# Teach2give
+The technical questions were attempted using Java.
